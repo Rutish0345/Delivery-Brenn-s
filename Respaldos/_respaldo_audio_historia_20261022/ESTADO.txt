@@ -1,2 +1,0 @@
-Etapa 1 (botón "Menú" en la pausa): TERMINADA 22/10 01:02. ConstruirSonido reconstruyó la pausa en las 3 escenas; PruebaPausaMenu OK en los 3 niveles; consola limpia.
-Etapa 2 (sonidos de la historia): código y WAV listos; PruebaHistoria escrita (falta la corrida final con los ajustes de tiempos). Pendiente: borrar Assets/Editor/CopiaEscenaAbierta.cs (diagnóstico).

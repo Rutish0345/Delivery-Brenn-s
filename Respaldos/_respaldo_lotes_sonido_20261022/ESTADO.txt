@@ -1,5 +1,0 @@
-22/10 ~01:45 (se acabó el uso):
-B) Sonido HECHO: moto_arranque 0.70 s (arpegio Do-Mi-Sol-Do cuadrado + ding), motor 200 Hz y motor_grave 165 Hz (sierra + AM, sin ruido, 0 % < 120 Hz, pico 0.38). Solo esos 3 WAV cambiaron. Falta reimportar en Unity (ConstruirSonido.pedido) y probar.
-A) Setos: generador cambiado SOLO para B_centro (LOTES_PEGADOS). Falta: aplicar a todas las manzanas + vegetación vieja, revisar anchos, correr generadores reales, AbrirEscena + ConstruirMapa, ConstruirMapaLluvia "solo_mapa" (parche en scratchpad/setos/parche_lluvia.py), PruebaParque (scratchpad/setos/PruebaParque.cs), capturas.
-Pendiente previo: correr PruebaHistoria; borrar Assets/Editor/CopiaEscenaAbierta.cs.
-Unity estaba en Play (la usuaria): no se compiló nada.
