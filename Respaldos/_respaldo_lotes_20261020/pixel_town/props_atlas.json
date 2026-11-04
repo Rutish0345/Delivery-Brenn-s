@@ -1,0 +1,709 @@
+{
+  "imagen": "props_atlas.png",
+  "ancho": 1024,
+  "alto": 819,
+  "origen": "arriba-izquierda (y_unity = desde abajo)",
+  "pivote": [
+    0.5,
+    0.0
+  ],
+  "separacion": 4,
+  "sprites": [
+    {
+      "name": "arbol_grande",
+      "x": 732,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 732
+    },
+    {
+      "name": "arbol_grande_b",
+      "x": 793,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 732
+    },
+    {
+      "name": "arbol_mediano",
+      "x": 953,
+      "y": 4,
+      "w": 45,
+      "h": 69,
+      "y_unity": 746
+    },
+    {
+      "name": "arbusto_chico",
+      "x": 762,
+      "y": 158,
+      "w": 30,
+      "h": 21,
+      "y_unity": 640
+    },
+    {
+      "name": "arbusto_flores",
+      "x": 554,
+      "y": 158,
+      "w": 48,
+      "h": 27,
+      "y_unity": 634
+    },
+    {
+      "name": "arbusto_flores_crema",
+      "x": 674,
+      "y": 158,
+      "w": 40,
+      "h": 25,
+      "y_unity": 636
+    },
+    {
+      "name": "arbusto_grande",
+      "x": 502,
+      "y": 158,
+      "w": 48,
+      "h": 29,
+      "y_unity": 632
+    },
+    {
+      "name": "arbusto_lejano",
+      "x": 718,
+      "y": 158,
+      "w": 40,
+      "h": 23,
+      "y_unity": 638
+    },
+    {
+      "name": "aro_basquet_norte",
+      "x": 132,
+      "y": 773,
+      "w": 28,
+      "h": 36,
+      "pivote": [
+        0.5,
+        0.9166666666666666
+      ],
+      "y_unity": 10
+    },
+    {
+      "name": "aro_basquet_sur",
+      "x": 164,
+      "y": 773,
+      "w": 28,
+      "h": 36,
+      "pivote": [
+        0.5,
+        0.08333333333333333
+      ],
+      "y_unity": 10
+    },
+    {
+      "name": "banca_parque",
+      "x": 334,
+      "y": 773,
+      "w": 46,
+      "h": 28,
+      "y_unity": 18
+    },
+    {
+      "name": "barda",
+      "x": 430,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 625
+    },
+    {
+      "name": "barda_hiedra",
+      "x": 466,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 625
+    },
+    {
+      "name": "barda_porton",
+      "x": 348,
+      "y": 158,
+      "w": 64,
+      "h": 44,
+      "y_unity": 617
+    },
+    {
+      "name": "barda_poste_final",
+      "x": 416,
+      "y": 158,
+      "w": 10,
+      "h": 44,
+      "y_unity": 617
+    },
+    {
+      "name": "bote_basura",
+      "x": 505,
+      "y": 773,
+      "w": 17,
+      "h": 23,
+      "y_unity": 23
+    },
+    {
+      "name": "buzon_teal",
+      "x": 304,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 614
+    },
+    {
+      "name": "buzon_terracota",
+      "x": 326,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 614
+    },
+    {
+      "name": "caja_carga",
+      "x": 562,
+      "y": 773,
+      "w": 20,
+      "h": 20,
+      "y_unity": 26
+    },
+    {
+      "name": "cajas_apiladas",
+      "x": 4,
+      "y": 773,
+      "w": 44,
+      "h": 42,
+      "y_unity": 4
+    },
+    {
+      "name": "camioneta_reparto",
+      "x": 548,
+      "y": 615,
+      "w": 119,
+      "h": 58,
+      "y_unity": 146
+    },
+    {
+      "name": "carro_frontal_azul",
+      "x": 453,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_frontal_dorado",
+      "x": 509,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_frontal_morado",
+      "x": 565,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_frontal_oliva",
+      "x": 621,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_frontal_rosa",
+      "x": 677,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_frontal_teal",
+      "x": 733,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_lateral_azul",
+      "x": 69,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_lateral_dorado",
+      "x": 169,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_lateral_morado",
+      "x": 269,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_lateral_oliva",
+      "x": 369,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_lateral_rosa",
+      "x": 469,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_lateral_teal",
+      "x": 569,
+      "y": 715,
+      "w": 96,
+      "h": 48,
+      "y_unity": 56
+    },
+    {
+      "name": "carro_trasero_azul",
+      "x": 789,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_trasero_dorado",
+      "x": 845,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_trasero_morado",
+      "x": 901,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_trasero_oliva",
+      "x": 957,
+      "y": 437,
+      "w": 52,
+      "h": 96,
+      "y_unity": 286
+    },
+    {
+      "name": "carro_trasero_rosa",
+      "x": 4,
+      "y": 615,
+      "w": 52,
+      "h": 96,
+      "y_unity": 108
+    },
+    {
+      "name": "carro_trasero_teal",
+      "x": 60,
+      "y": 615,
+      "w": 52,
+      "h": 96,
+      "y_unity": 108
+    },
+    {
+      "name": "casa_azul",
+      "x": 4,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 665
+    },
+    {
+      "name": "casa_crema",
+      "x": 168,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 665
+    },
+    {
+      "name": "casa_madera",
+      "x": 332,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 665
+    },
+    {
+      "name": "casa_oliva",
+      "x": 496,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 665
+    },
+    {
+      "name": "cerca_baja",
+      "x": 526,
+      "y": 773,
+      "w": 32,
+      "h": 22,
+      "y_unity": 24
+    },
+    {
+      "name": "cerca_baja_porton",
+      "x": 222,
+      "y": 773,
+      "w": 96,
+      "h": 29,
+      "y_unity": 17
+    },
+    {
+      "name": "cerca_baja_poste",
+      "x": 322,
+      "y": 773,
+      "w": 8,
+      "h": 29,
+      "y_unity": 17
+    },
+    {
+      "name": "columpios",
+      "x": 917,
+      "y": 615,
+      "w": 73,
+      "h": 55,
+      "y_unity": 149
+    },
+    {
+      "name": "cubetas_flores",
+      "x": 384,
+      "y": 773,
+      "w": 46,
+      "h": 26,
+      "y_unity": 20
+    },
+    {
+      "name": "empresa_brenns",
+      "x": 4,
+      "y": 209,
+      "w": 320,
+      "h": 224,
+      "y_unity": 386
+    },
+    {
+      "name": "estrellas_entrega_0",
+      "x": 669,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "estrellas_entrega_1",
+      "x": 721,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "estrellas_entrega_2",
+      "x": 773,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "estrellas_entrega_3",
+      "x": 825,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "estrellas_entrega_4",
+      "x": 877,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "estrellas_entrega_5",
+      "x": 929,
+      "y": 715,
+      "w": 48,
+      "h": 48,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "y_unity": 56
+    },
+    {
+      "name": "farol",
+      "x": 660,
+      "y": 4,
+      "w": 20,
+      "h": 111,
+      "y_unity": 704
+    },
+    {
+      "name": "fuente_plaza",
+      "x": 116,
+      "y": 615,
+      "w": 92,
+      "h": 70,
+      "y_unity": 134
+    },
+    {
+      "name": "hidrante",
+      "x": 434,
+      "y": 773,
+      "w": 18,
+      "h": 26,
+      "y_unity": 20
+    },
+    {
+      "name": "huerto_comunitario",
+      "x": 212,
+      "y": 615,
+      "w": 128,
+      "h": 69,
+      "y_unity": 135
+    },
+    {
+      "name": "huerto_plantas",
+      "x": 796,
+      "y": 158,
+      "w": 29,
+      "h": 20,
+      "y_unity": 641
+    },
+    {
+      "name": "jardinera_flores",
+      "x": 456,
+      "y": 773,
+      "w": 45,
+      "h": 24,
+      "y_unity": 22
+    },
+    {
+      "name": "lago_parque",
+      "x": 200,
+      "y": 437,
+      "w": 249,
+      "h": 116,
+      "y_unity": 266
+    },
+    {
+      "name": "letrero_calle_avenida",
+      "x": 671,
+      "y": 615,
+      "w": 61,
+      "h": 58,
+      "y_unity": 146
+    },
+    {
+      "name": "letrero_calle_empedrada",
+      "x": 736,
+      "y": 615,
+      "w": 70,
+      "h": 58,
+      "y_unity": 146
+    },
+    {
+      "name": "letrero_calle_olmo",
+      "x": 810,
+      "y": 615,
+      "w": 50,
+      "h": 58,
+      "y_unity": 146
+    },
+    {
+      "name": "letrero_calle_pino",
+      "x": 864,
+      "y": 615,
+      "w": 49,
+      "h": 58,
+      "y_unity": 146
+    },
+    {
+      "name": "mesa_picnic",
+      "x": 52,
+      "y": 773,
+      "w": 76,
+      "h": 40,
+      "y_unity": 6
+    },
+    {
+      "name": "parquimetro",
+      "x": 981,
+      "y": 715,
+      "w": 11,
+      "h": 44,
+      "y_unity": 60
+    },
+    {
+      "name": "piedra_camino",
+      "x": 829,
+      "y": 158,
+      "w": 15,
+      "h": 9,
+      "y_unity": 652
+    },
+    {
+      "name": "pino",
+      "x": 854,
+      "y": 4,
+      "w": 39,
+      "h": 82,
+      "y_unity": 733
+    },
+    {
+      "name": "pizarra_panaderia",
+      "x": 196,
+      "y": 773,
+      "w": 22,
+      "h": 33,
+      "y_unity": 13
+    },
+    {
+      "name": "puesto_elotes",
+      "x": 344,
+      "y": 615,
+      "w": 56,
+      "h": 64,
+      "y_unity": 140
+    },
+    {
+      "name": "resbaladilla",
+      "x": 4,
+      "y": 715,
+      "w": 61,
+      "h": 54,
+      "y_unity": 50
+    },
+    {
+      "name": "semaforo_ambar",
+      "x": 404,
+      "y": 615,
+      "w": 32,
+      "h": 64,
+      "y_unity": 140
+    },
+    {
+      "name": "semaforo_apagado",
+      "x": 440,
+      "y": 615,
+      "w": 32,
+      "h": 64,
+      "y_unity": 140
+    },
+    {
+      "name": "semaforo_rojo",
+      "x": 476,
+      "y": 615,
+      "w": 32,
+      "h": 64,
+      "y_unity": 140
+    },
+    {
+      "name": "semaforo_verde",
+      "x": 512,
+      "y": 615,
+      "w": 32,
+      "h": 64,
+      "y_unity": 140
+    },
+    {
+      "name": "senal_calle",
+      "x": 684,
+      "y": 4,
+      "w": 44,
+      "h": 93,
+      "y_unity": 722
+    },
+    {
+      "name": "seto",
+      "x": 606,
+      "y": 158,
+      "w": 64,
+      "h": 27,
+      "y_unity": 634
+    },
+    {
+      "name": "tienda_farmacia",
+      "x": 328,
+      "y": 209,
+      "w": 192,
+      "h": 176,
+      "y_unity": 434
+    },
+    {
+      "name": "tienda_floreria",
+      "x": 720,
+      "y": 209,
+      "w": 192,
+      "h": 174,
+      "y_unity": 436
+    },
+    {
+      "name": "tienda_panaderia",
+      "x": 524,
+      "y": 209,
+      "w": 192,
+      "h": 176,
+      "y_unity": 434
+    },
+    {
+      "name": "tienda_salon_belleza",
+      "x": 4,
+      "y": 437,
+      "w": 192,
+      "h": 174,
+      "y_unity": 208
+    }
+  ]
+}

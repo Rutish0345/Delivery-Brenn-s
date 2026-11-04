@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4fb96090f26ff6742be0483a55a2a51f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6545196064097795294
+    second: lineas_velocidad_2_0
+  - first:
+      213: 7739391559616968350
+    second: lineas_velocidad_2_1
+  - first:
+      213: 3414511445540252688
+    second: lineas_velocidad_2_2
+  - first:
+      213: -8250026366147107940
+    second: lineas_velocidad_2_3
+  - first:
+      213: 948674800517366455
+    second: lineas_velocidad_2_4
+  - first:
+      213: -2217344341348353388
+    second: lineas_velocidad_2_5
+  - first:
+      213: 111709360240469688
+    second: lineas_velocidad_2_6
+  - first:
+      213: -1898444231628692125
+    second: lineas_velocidad_2_7
+  - first:
+      213: 20706206563928821
+    second: lineas_velocidad_2_8
+  - first:
+      213: 6227000463280987212
+    second: lineas_velocidad_2_9
+  - first:
+      213: -7506052928782511436
+    second: lineas_velocidad_2_10
+  - first:
+      213: 5756328362900014548
+    second: lineas_velocidad_2_11
+  - first:
+      213: 366251055782368357
+    second: lineas_velocidad_2_12
+  - first:
+      213: 8699429543439364486
+    second: lineas_velocidad_2_13
+  - first:
+      213: -5326261340006408080
+    second: lineas_velocidad_2_14
+  - first:
+      213: -7803027330139327534
+    second: lineas_velocidad_2_15
+  - first:
+      213: 6379730098797996582
+    second: lineas_velocidad_2_16
+  - first:
+      213: -7744308284286445132
+    second: lineas_velocidad_2_17
+  - first:
+      213: 1755218670811593011
+    second: lineas_velocidad_2_18
+  - first:
+      213: -607888048560648692
+    second: lineas_velocidad_2_19
+  - first:
+      213: -1197312353181102194
+    second: lineas_velocidad_2_20
+  - first:
+      213: 2575116192036940597
+    second: lineas_velocidad_2_21
+  - first:
+      213: 331811006163576345
+    second: lineas_velocidad_2_22
+  - first:
+      213: -1193983115047136034
+    second: lineas_velocidad_2_23
+  - first:
+      213: -2665612593018540553
+    second: lineas_velocidad_2_24
+  - first:
+      213: -7256070675796783810
+    second: lineas_velocidad_2_25
+  - first:
+      213: -2234448965164042266
+    second: lineas_velocidad_2_26
+  - first:
+      213: 2080408105225684626
+    second: lineas_velocidad_2_27
+  - first:
+      213: -5154820589163628987
+    second: lineas_velocidad_2_28
+  - first:
+      213: -5233822936825855877
+    second: lineas_velocidad_2_29
+  - first:
+      213: -2637166896660901193
+    second: lineas_velocidad_2_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lineas_velocidad_2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238a2e8bdaca25a0800000000000000
+      internalID: -6545196064097795294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9630a05e97d76b60800000000000000
+      internalID: 7739391559616968350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01caee0a118c26f20800000000000000
+      internalID: 3414511445540252688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e1320bb4028d80800000000000000
+      internalID: -8250026366147107940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2c33c64be5a2d00800000000000000
+      internalID: 948674800517366455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a753dc1196a31e0800000000000000
+      internalID: -2217344341348353388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 157
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6283f321fdc8100800000000000000
+      internalID: 111709360240469688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 150
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365e1eb970f57a5e0800000000000000
+      internalID: -1898444231628692125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 161
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa83e66f20994000800000000000000
+      internalID: 20706206563928821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 159
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5e06edefba6650800000000000000
+      internalID: 6227000463280987212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b253aa41a425d790800000000000000
+      internalID: -7506052928782511436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54921d52692ef40800000000000000
+      internalID: 5756328362900014548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564158e056f251500800000000000000
+      internalID: 366251055782368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fd3504159ab870800000000000000
+      internalID: 8699429543439364486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a500f7815516b0800000000000000
+      internalID: -5326261340006408080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d371664cf316b390800000000000000
+      internalID: -7803027330139327534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ae8bd39ba598850800000000000000
+      internalID: 6379730098797996582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ddf385a0b68490800000000000000
+      internalID: -7744308284286445132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339bbd0e41acb5810800000000000000
+      internalID: 1755218670811593011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e46526a095097f0800000000000000
+      internalID: -607888048560648692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f047722ca426fe0800000000000000
+      internalID: -1197312353181102194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53be7b97886acb320800000000000000
+      internalID: 2575116192036940597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e1f22a54da9400800000000000000
+      internalID: 331811006163576345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed41dcfceae1e6fe0800000000000000
+      internalID: -1193983115047136034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd625c3877d10bd0800000000000000
+      internalID: -2665612593018540553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d01082a224d4b90800000000000000
+      internalID: -7256070675796783810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e778aa3184adf0e0800000000000000
+      internalID: -2234448965164042266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29602d336281fdc10800000000000000
+      internalID: 2080408105225684626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546380e4cf56678b0800000000000000
+      internalID: -5154820589163628987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b700439d4c9bd57b0800000000000000
+      internalID: -5233822936825855877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_velocidad_2_30
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b29b170ea6e66bd0800000000000000
+      internalID: -2637166896660901193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lineas_velocidad_2_0: -6545196064097795294
+      lineas_velocidad_2_1: 7739391559616968350
+      lineas_velocidad_2_10: -7506052928782511436
+      lineas_velocidad_2_11: 5756328362900014548
+      lineas_velocidad_2_12: 366251055782368357
+      lineas_velocidad_2_13: 8699429543439364486
+      lineas_velocidad_2_14: -5326261340006408080
+      lineas_velocidad_2_15: -7803027330139327534
+      lineas_velocidad_2_16: 6379730098797996582
+      lineas_velocidad_2_17: -7744308284286445132
+      lineas_velocidad_2_18: 1755218670811593011
+      lineas_velocidad_2_19: -607888048560648692
+      lineas_velocidad_2_2: 3414511445540252688
+      lineas_velocidad_2_20: -1197312353181102194
+      lineas_velocidad_2_21: 2575116192036940597
+      lineas_velocidad_2_22: 331811006163576345
+      lineas_velocidad_2_23: -1193983115047136034
+      lineas_velocidad_2_24: -2665612593018540553
+      lineas_velocidad_2_25: -7256070675796783810
+      lineas_velocidad_2_26: -2234448965164042266
+      lineas_velocidad_2_27: 2080408105225684626
+      lineas_velocidad_2_28: -5154820589163628987
+      lineas_velocidad_2_29: -5233822936825855877
+      lineas_velocidad_2_3: -8250026366147107940
+      lineas_velocidad_2_30: -2637166896660901193
+      lineas_velocidad_2_4: 948674800517366455
+      lineas_velocidad_2_5: -2217344341348353388
+      lineas_velocidad_2_6: 111709360240469688
+      lineas_velocidad_2_7: -1898444231628692125
+      lineas_velocidad_2_8: 20706206563928821
+      lineas_velocidad_2_9: 6227000463280987212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

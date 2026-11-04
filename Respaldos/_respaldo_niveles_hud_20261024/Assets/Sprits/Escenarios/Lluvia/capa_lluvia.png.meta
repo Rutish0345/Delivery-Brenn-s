@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: f9a3e877c69931c43ae4a9ef476ed717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1811314127654999805
+    second: capa_lluvia_0
+  - first:
+      213: -4280183894595883009
+    second: capa_lluvia_1
+  - first:
+      213: -6044634173720362594
+    second: capa_lluvia_2
+  - first:
+      213: 1345147394177113498
+    second: capa_lluvia_3
+  - first:
+      213: 1913445181398069875
+    second: capa_lluvia_4
+  - first:
+      213: -8752621781425092061
+    second: capa_lluvia_5
+  - first:
+      213: 2793158016558711070
+    second: capa_lluvia_6
+  - first:
+      213: 5367211890112046930
+    second: capa_lluvia_7
+  - first:
+      213: -3926848144674729850
+    second: capa_lluvia_8
+  - first:
+      213: 4455523735455349881
+    second: capa_lluvia_9
+  - first:
+      213: -4372836698917132384
+    second: capa_lluvia_10
+  - first:
+      213: 4122437365986244892
+    second: capa_lluvia_11
+  - first:
+      213: -2332802152131918747
+    second: capa_lluvia_12
+  - first:
+      213: 8515860177418328687
+    second: capa_lluvia_13
+  - first:
+      213: -1396758635605606201
+    second: capa_lluvia_14
+  - first:
+      213: 2439574388545951755
+    second: capa_lluvia_15
+  - first:
+      213: -1938803528669856110
+    second: capa_lluvia_16
+  - first:
+      213: 2631209965134679769
+    second: capa_lluvia_17
+  - first:
+      213: -5042734418712643944
+    second: capa_lluvia_18
+  - first:
+      213: 459956255223719335
+    second: capa_lluvia_19
+  - first:
+      213: -5772176596433644083
+    second: capa_lluvia_20
+  - first:
+      213: -6613017939909487375
+    second: capa_lluvia_21
+  - first:
+      213: -2863286790137934512
+    second: capa_lluvia_22
+  - first:
+      213: -3713300337811801447
+    second: capa_lluvia_23
+  - first:
+      213: -5708856890532281838
+    second: capa_lluvia_24
+  - first:
+      213: -4603519040981430776
+    second: capa_lluvia_25
+  - first:
+      213: 4299469081052920928
+    second: capa_lluvia_26
+  - first:
+      213: -4383877725783861799
+    second: capa_lluvia_27
+  - first:
+      213: 6364867712353457490
+    second: capa_lluvia_28
+  - first:
+      213: 464714785004749598
+    second: capa_lluvia_29
+  - first:
+      213: -3327445726688385166
+    second: capa_lluvia_30
+  - first:
+      213: -7889273047139869630
+    second: capa_lluvia_31
+  - first:
+      213: 1480398583489575015
+    second: capa_lluvia_32
+  - first:
+      213: -6236689947989186814
+    second: capa_lluvia_33
+  - first:
+      213: -6577637738793292183
+    second: capa_lluvia_34
+  - first:
+      213: -8328384700861427308
+    second: capa_lluvia_35
+  - first:
+      213: 2699797876625689300
+    second: capa_lluvia_36
+  - first:
+      213: -7225171904766602324
+    second: capa_lluvia_37
+  - first:
+      213: 4945683381604148767
+    second: capa_lluvia_38
+  - first:
+      213: -571436645220120383
+    second: capa_lluvia_39
+  - first:
+      213: 7635475613060676047
+    second: capa_lluvia_40
+  - first:
+      213: 6341411232856902484
+    second: capa_lluvia_41
+  - first:
+      213: -7050704869248409815
+    second: capa_lluvia_42
+  - first:
+      213: 3612721742931869516
+    second: capa_lluvia_43
+  - first:
+      213: -907913171864988932
+    second: capa_lluvia_44
+  - first:
+      213: -5892853652840263870
+    second: capa_lluvia_45
+  - first:
+      213: 6988135854629935788
+    second: capa_lluvia_46
+  - first:
+      213: 8012798875559353762
+    second: capa_lluvia_47
+  - first:
+      213: 2782018924525913415
+    second: capa_lluvia_48
+  - first:
+      213: -6999033045131490239
+    second: capa_lluvia_49
+  - first:
+      213: -2697126261033171151
+    second: capa_lluvia_50
+  - first:
+      213: 6535805670171564269
+    second: capa_lluvia_51
+  - first:
+      213: 253093299945172773
+    second: capa_lluvia_52
+  - first:
+      213: -5714145860905608801
+    second: capa_lluvia_53
+  - first:
+      213: -8913548682643466071
+    second: capa_lluvia_54
+  - first:
+      213: -5601669806927396625
+    second: capa_lluvia_55
+  - first:
+      213: 6259237208413459491
+    second: capa_lluvia_56
+  - first:
+      213: 1148561540137518867
+    second: capa_lluvia_57
+  - first:
+      213: 8989483492509954501
+    second: capa_lluvia_58
+  - first:
+      213: 485855201233087138
+    second: capa_lluvia_59
+  - first:
+      213: -6385073793202661177
+    second: capa_lluvia_60
+  - first:
+      213: 8391853819518681627
+    second: capa_lluvia_61
+  - first:
+      213: 3595975438708780244
+    second: capa_lluvia_62
+  - first:
+      213: 4269014049586170742
+    second: capa_lluvia_63
+  - first:
+      213: -5740436786308079389
+    second: capa_lluvia_64
+  - first:
+      213: 3541752036161686772
+    second: capa_lluvia_65
+  - first:
+      213: -7645331539330065607
+    second: capa_lluvia_66
+  - first:
+      213: 6665393823651560090
+    second: capa_lluvia_67
+  - first:
+      213: 6608300372494530970
+    second: capa_lluvia_68
+  - first:
+      213: -1601281541748111242
+    second: capa_lluvia_69
+  - first:
+      213: 5595433391485116605
+    second: capa_lluvia_70
+  - first:
+      213: -5353537072449439624
+    second: capa_lluvia_71
+  - first:
+      213: 1084265646962493421
+    second: capa_lluvia_72
+  - first:
+      213: 4068593112172151035
+    second: capa_lluvia_73
+  - first:
+      213: -6606322089098009058
+    second: capa_lluvia_74
+  - first:
+      213: -3236001045982529211
+    second: capa_lluvia_75
+  - first:
+      213: -2711650221099705112
+    second: capa_lluvia_76
+  - first:
+      213: 141018496677343295
+    second: capa_lluvia_77
+  - first:
+      213: 1616733728730767682
+    second: capa_lluvia_78
+  - first:
+      213: 8736932370876831177
+    second: capa_lluvia_79
+  - first:
+      213: 3296157851562806986
+    second: capa_lluvia_80
+  - first:
+      213: -8136855367971422685
+    second: capa_lluvia_81
+  - first:
+      213: 7588571892003545702
+    second: capa_lluvia_82
+  - first:
+      213: -3618614120298197243
+    second: capa_lluvia_83
+  - first:
+      213: -6939362849969550312
+    second: capa_lluvia_84
+  - first:
+      213: -2920713624107151334
+    second: capa_lluvia_85
+  - first:
+      213: 6435969960852352923
+    second: capa_lluvia_86
+  - first:
+      213: -9178387353404014314
+    second: capa_lluvia_87
+  - first:
+      213: 8378591855223454485
+    second: capa_lluvia_88
+  - first:
+      213: 1777030204505227608
+    second: capa_lluvia_89
+  - first:
+      213: -4219502563648471822
+    second: capa_lluvia_90
+  - first:
+      213: 1998215505285716576
+    second: capa_lluvia_91
+  - first:
+      213: 5425029392071197910
+    second: capa_lluvia_92
+  - first:
+      213: 277221499262931
+    second: capa_lluvia_93
+  - first:
+      213: 7226618373773544232
+    second: capa_lluvia_94
+  - first:
+      213: -5188080240854350710
+    second: capa_lluvia_95
+  - first:
+      213: 6523076973810556340
+    second: capa_lluvia_96
+  - first:
+      213: -1858645615609963289
+    second: capa_lluvia_97
+  - first:
+      213: 8061862889775905916
+    second: capa_lluvia_98
+  - first:
+      213: -3738750903613984328
+    second: capa_lluvia_99
+  - first:
+      213: 7703393516186402460
+    second: capa_lluvia_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capa_lluvia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d5833a94132910800000000000000
+      internalID: 1811314127654999805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 231
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa34ddc6bb994c0800000000000000
+      internalID: -4280183894595883009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 221
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91063eae352d1ca0800000000000000
+      internalID: -6044634173720362594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 245
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d18789d6ceaa210800000000000000
+      internalID: 1345147394177113498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 233
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723a6e214ced8a10800000000000000
+      internalID: 1913445181398069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a8fc8fcd0788680800000000000000
+      internalID: -8752621781425092061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114482da6a43c620800000000000000
+      internalID: 2793158016558711070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 228
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a16007ca2c7a40800000000000000
+      internalID: 5367211890112046930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 211
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d2c1fa680189c0800000000000000
+      internalID: -3926848144674729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 220
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c33242b3335dd30800000000000000
+      internalID: 4455523735455349881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a04cc0309053c0800000000000000
+      internalID: -4372836698917132384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 211
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19386851f6d53930800000000000000
+      internalID: 4122437365986244892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 201
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56409e66dc830afd0800000000000000
+      internalID: -2332802152131918747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 227
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a1aef56b96e2670800000000000000
+      internalID: 8515860177418328687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c4c7db67bd9ce0800000000000000
+      internalID: -1396758635605606201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b081c602bfb1bd120800000000000000
+      internalID: 2439574388545951755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29efb50867cf715e0800000000000000
+      internalID: -1938803528669856110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 184
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de0255c58fe38420800000000000000
+      internalID: 2631209965134679769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 211
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963ff383cb940ab0800000000000000
+      internalID: -5042734418712643944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 188
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a524d4f6c7126600800000000000000
+      internalID: 459956255223719335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 212
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5dfb4c7fb15efa0800000000000000
+      internalID: -5772176596433644083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 200
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d86e8837d934a0800000000000000
+      internalID: -6613017939909487375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d82cfa5df8348d0800000000000000
+      internalID: -2863286790137934512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 172
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ab3644405b77cc0800000000000000
+      internalID: -3713300337811801447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 198
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124846a7e016c0b0800000000000000
+      internalID: -5708856890532281838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 186
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0e8d92d30d10c0800000000000000
+      internalID: -4603519040981430776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 189
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c3fe28958caab30800000000000000
+      internalID: 4299469081052920928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5d7e76f665923c0800000000000000
+      internalID: -4383877725783861799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 142
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2555e2d367d845850800000000000000
+      internalID: 6364867712353457490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 171
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13841282aff27600800000000000000
+      internalID: 464714785004749598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e85bbdb982d1d0800000000000000
+      internalID: -3327445726688385166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 179
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c1a2976fba38290800000000000000
+      internalID: -7889273047139869630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 177
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76833ee0bae6b8410800000000000000
+      internalID: 1480398583489575015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 158
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ead32983d279a0800000000000000
+      internalID: -6236689947989186814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea50e835987b4a0800000000000000
+      internalID: -6577637738793292183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 169
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4915b508d32ab6c80800000000000000
+      internalID: -8328384700861427308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 170
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac0a95ddb977520800000000000000
+      internalID: 2699797876625689300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 169
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31147ee680bbb90800000000000000
+      internalID: -7225171904766602324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 173
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16611c05d892a440800000000000000
+      internalID: 4945683381604148767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 155
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c883061669d118f0800000000000000
+      internalID: -571436645220120383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b3a79d98a6f960800000000000000
+      internalID: 7635475613060676047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 138
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8b150be7310850800000000000000
+      internalID: 6341411232856902484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd454174dd62e90800000000000000
+      internalID: -7050704869248409815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb8cfb847f22230800000000000000
+      internalID: 3612721742931869516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 143
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d610d7c17663f0800000000000000
+      internalID: -907913171864988932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 142
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fc71d03d0683ea0800000000000000
+      internalID: -5892853652840263870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 121
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5369f888daf060800000000000000
+      internalID: 6988135854629935788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 140
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad5d5aaf1e233f60800000000000000
+      internalID: 8012798875559353762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 142
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74508cad877bb9620800000000000000
+      internalID: 2782018924525913415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 125
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c87b527807ede90800000000000000
+      internalID: -6999033045131490239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378db0a4f1e19ad0800000000000000
+      internalID: -2697126261033171151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 110
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de85f8bf0a8d3ba50800000000000000
+      internalID: 6535805670171564269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 118
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f634ee30b238300800000000000000
+      internalID: 253093299945172773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d3f54d9643b0b0800000000000000
+      internalID: -5714145860905608801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a892eaf2b6bc4480800000000000000
+      internalID: -8913548682643466071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 117
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0cf015dfed242b0800000000000000
+      internalID: -5601669806927396625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 104
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324546404174dd650800000000000000
+      internalID: 6259237208413459491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 94
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317829aa2a280ff00800000000000000
+      internalID: 1148561540137518867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13b4dab9f01cc70800000000000000
+      internalID: 8989483492509954501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa26c93bba1eb600800000000000000
+      internalID: 485855201233087138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8df73f639a367a0800000000000000
+      internalID: -6385073793202661177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b128a6f369ad57470800000000000000
+      internalID: 8391853819518681627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 94
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2445fb9877e130800000000000000
+      internalID: 3595975438708780244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 88
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4cbee8a59e3b30800000000000000
+      internalID: 4269014049586170742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 92
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0a580382fd550b0800000000000000
+      internalID: -5740436786308079389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc0fed36b4d62130800000000000000
+      internalID: 3541752036161686772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1420c87356e590800000000000000
+      internalID: -7645331539330065607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a75da2e5c308c50800000000000000
+      internalID: 6665393823651560090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 77
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a993e9f2d2665bb50800000000000000
+      internalID: 6608300372494530970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c6b6fbea17c9e0800000000000000
+      internalID: -1601281541748111242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 51
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db064df0609f6ad40800000000000000
+      internalID: 5595433391485116605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87834c8956a64b5b0800000000000000
+      internalID: -5353537072449439624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cb597cd51c0f00800000000000000
+      internalID: 1084265646962493421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 27
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04f9211eb867830800000000000000
+      internalID: 4068593112172151035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e162f7fcf01a154a0800000000000000
+      internalID: -6606322089098009058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5493b69913a6713d0800000000000000
+      internalID: -3236001045982529211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_76
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1e38ad784e5ad0800000000000000
+      internalID: -2711650221099705112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307639539ff4f100800000000000000
+      internalID: 141018496677343295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 56
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e36da2cacf6610800000000000000
+      internalID: 1616733728730767682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 58
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c599b873b1df3970800000000000000
+      internalID: 8736932370876831177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_80
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace040a2a1e4ebd20800000000000000
+      internalID: 3296157851562806986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e355b5725141f80800000000000000
+      internalID: -8136855367971422685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 46
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a2670ee5005960800000000000000
+      internalID: 7588571892003545702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 29
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc96c31a918cdc0800000000000000
+      internalID: -3618614120298197243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_84
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc508114e62bf90800000000000000
+      internalID: -6939362849969550312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 24
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101378fe6a8777d0800000000000000
+      internalID: -2920713624107151334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 25
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f60b58498215950800000000000000
+      internalID: 6435969960852352923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 22
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118a6dc451df9080800000000000000
+      internalID: -9178387353404014314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_88
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 27
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b339096ecb64470800000000000000
+      internalID: 8378591855223454485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8518cae4e8749a810800000000000000
+      internalID: 1777030204505227608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcf1e436c05175c0800000000000000
+      internalID: -4219502563648471822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a9b314a661bbb10800000000000000
+      internalID: 1998215505285716576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405723d73994b40800000000000000
+      internalID: 5425029392071197910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7dcf8a12cf00000800000000000000
+      internalID: 277221499262931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b45186f1b1a4460800000000000000
+      internalID: 7226618373773544232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8447a1328c3008b0800000000000000
+      internalID: -5188080240854350710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd128a62ff968a50800000000000000
+      internalID: 6523076973810556340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec1b3ef8a3c436e0800000000000000
+      internalID: -1858645615609963289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c3ffca59d71ef60800000000000000
+      internalID: 8061862889775905916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fa66acd94d1cc0800000000000000
+      internalID: -3738750903613984328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capa_lluvia_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7651b693f7ea60800000000000000
+      internalID: 7703393516186402460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capa_lluvia_0: 1811314127654999805
+      capa_lluvia_1: -4280183894595883009
+      capa_lluvia_10: -4372836698917132384
+      capa_lluvia_100: 7703393516186402460
+      capa_lluvia_11: 4122437365986244892
+      capa_lluvia_12: -2332802152131918747
+      capa_lluvia_13: 8515860177418328687
+      capa_lluvia_14: -1396758635605606201
+      capa_lluvia_15: 2439574388545951755
+      capa_lluvia_16: -1938803528669856110
+      capa_lluvia_17: 2631209965134679769
+      capa_lluvia_18: -5042734418712643944
+      capa_lluvia_19: 459956255223719335
+      capa_lluvia_2: -6044634173720362594
+      capa_lluvia_20: -5772176596433644083
+      capa_lluvia_21: -6613017939909487375
+      capa_lluvia_22: -2863286790137934512
+      capa_lluvia_23: -3713300337811801447
+      capa_lluvia_24: -5708856890532281838
+      capa_lluvia_25: -4603519040981430776
+      capa_lluvia_26: 4299469081052920928
+      capa_lluvia_27: -4383877725783861799
+      capa_lluvia_28: 6364867712353457490
+      capa_lluvia_29: 464714785004749598
+      capa_lluvia_3: 1345147394177113498
+      capa_lluvia_30: -3327445726688385166
+      capa_lluvia_31: -7889273047139869630
+      capa_lluvia_32: 1480398583489575015
+      capa_lluvia_33: -6236689947989186814
+      capa_lluvia_34: -6577637738793292183
+      capa_lluvia_35: -8328384700861427308
+      capa_lluvia_36: 2699797876625689300
+      capa_lluvia_37: -7225171904766602324
+      capa_lluvia_38: 4945683381604148767
+      capa_lluvia_39: -571436645220120383
+      capa_lluvia_4: 1913445181398069875
+      capa_lluvia_40: 7635475613060676047
+      capa_lluvia_41: 6341411232856902484
+      capa_lluvia_42: -7050704869248409815
+      capa_lluvia_43: 3612721742931869516
+      capa_lluvia_44: -907913171864988932
+      capa_lluvia_45: -5892853652840263870
+      capa_lluvia_46: 6988135854629935788
+      capa_lluvia_47: 8012798875559353762
+      capa_lluvia_48: 2782018924525913415
+      capa_lluvia_49: -6999033045131490239
+      capa_lluvia_5: -8752621781425092061
+      capa_lluvia_50: -2697126261033171151
+      capa_lluvia_51: 6535805670171564269
+      capa_lluvia_52: 253093299945172773
+      capa_lluvia_53: -5714145860905608801
+      capa_lluvia_54: -8913548682643466071
+      capa_lluvia_55: -5601669806927396625
+      capa_lluvia_56: 6259237208413459491
+      capa_lluvia_57: 1148561540137518867
+      capa_lluvia_58: 8989483492509954501
+      capa_lluvia_59: 485855201233087138
+      capa_lluvia_6: 2793158016558711070
+      capa_lluvia_60: -6385073793202661177
+      capa_lluvia_61: 8391853819518681627
+      capa_lluvia_62: 3595975438708780244
+      capa_lluvia_63: 4269014049586170742
+      capa_lluvia_64: -5740436786308079389
+      capa_lluvia_65: 3541752036161686772
+      capa_lluvia_66: -7645331539330065607
+      capa_lluvia_67: 6665393823651560090
+      capa_lluvia_68: 6608300372494530970
+      capa_lluvia_69: -1601281541748111242
+      capa_lluvia_7: 5367211890112046930
+      capa_lluvia_70: 5595433391485116605
+      capa_lluvia_71: -5353537072449439624
+      capa_lluvia_72: 1084265646962493421
+      capa_lluvia_73: 4068593112172151035
+      capa_lluvia_74: -6606322089098009058
+      capa_lluvia_75: -3236001045982529211
+      capa_lluvia_76: -2711650221099705112
+      capa_lluvia_77: 141018496677343295
+      capa_lluvia_78: 1616733728730767682
+      capa_lluvia_79: 8736932370876831177
+      capa_lluvia_8: -3926848144674729850
+      capa_lluvia_80: 3296157851562806986
+      capa_lluvia_81: -8136855367971422685
+      capa_lluvia_82: 7588571892003545702
+      capa_lluvia_83: -3618614120298197243
+      capa_lluvia_84: -6939362849969550312
+      capa_lluvia_85: -2920713624107151334
+      capa_lluvia_86: 6435969960852352923
+      capa_lluvia_87: -9178387353404014314
+      capa_lluvia_88: 8378591855223454485
+      capa_lluvia_89: 1777030204505227608
+      capa_lluvia_9: 4455523735455349881
+      capa_lluvia_90: -4219502563648471822
+      capa_lluvia_91: 1998215505285716576
+      capa_lluvia_92: 5425029392071197910
+      capa_lluvia_93: 277221499262931
+      capa_lluvia_94: 7226618373773544232
+      capa_lluvia_95: -5188080240854350710
+      capa_lluvia_96: 6523076973810556340
+      capa_lluvia_97: -1858645615609963289
+      capa_lluvia_98: 8061862889775905916
+      capa_lluvia_99: -3738750903613984328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

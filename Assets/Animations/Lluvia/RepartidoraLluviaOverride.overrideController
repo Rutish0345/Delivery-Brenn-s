@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RepartidoraLluviaOverride
+  m_Controller: {fileID: 9100000, guid: 2accee66a9cebbc4bbff40bbdaaed263, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d1bf12d30354adf458b970d8c7b2fc5c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2584913fbfa4f884c87692d137f81820, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8ccb174473c1a4f4fae591977d216842, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8c052214f50db14788e93adc1b351b7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 591d9aa312ee0664c98ab11fe830397d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b857251be5c0daa4abab5e1389138586, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: abb7b82857e081d438334517bb90f180, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bcdb6ba4bf939014c849eb8250c9bd98, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fdcd7b58ba0a0724f8525f9aa5f7d877, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 17a1421e90e4d5644ae9e641bb0f0920, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: faed3da31cf55624aa38c40fcf5fe3d4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59abed27f4d531a47ac6f0947ba1b4a0, type: 2}

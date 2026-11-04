@@ -1,0 +1,320 @@
+{
+  "formato": "celdas de 72x80, 3 columnas x 3 filas; fila 0 frente, 1 espaldas, 2 lado (mira a la derecha; para la izquierda se usa flipX); columna 0 parada, 1-2 rodando",
+  "origen": "arriba-izquierda (Unity mide desde abajo)",
+  "pivote": [
+    0.5,
+    0.0
+  ],
+  "ppu": 32,
+  "celda": {
+    "w": 72,
+    "h": 80
+  },
+  "largo_lado_px": 64,
+  "icono": {
+    "w": 64,
+    "h": 64,
+    "pivote": [
+      0.5,
+      0.5
+    ]
+  },
+  "hojas": [
+    {
+      "imagen": "clasica_azul/clasica_azul.png",
+      "icono": "clasica_azul/clasica_azul_icono.png",
+      "ancho": 216,
+      "alto": 240,
+      "largo_lado_px": 64,
+      "alto_moto_px": 36,
+      "sprites": [
+        {
+          "name": "clasica_azul_frente_0",
+          "x": 0,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_frente_1",
+          "x": 72,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_frente_2",
+          "x": 144,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_espalda_0",
+          "x": 0,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_espalda_1",
+          "x": 72,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_espalda_2",
+          "x": 144,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_lado_0",
+          "x": 0,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_lado_1",
+          "x": 72,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "clasica_azul_lado_2",
+          "x": 144,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        }
+      ],
+      "nota": "clásica estándar azul: tanque redondo, motor cromado, faro redondo"
+    },
+    {
+      "imagen": "deportiva_roja/deportiva_roja.png",
+      "icono": "deportiva_roja/deportiva_roja_icono.png",
+      "ancho": 216,
+      "alto": 240,
+      "largo_lado_px": 64,
+      "alto_moto_px": 42,
+      "sprites": [
+        {
+          "name": "deportiva_roja_frente_0",
+          "x": 0,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_frente_1",
+          "x": 72,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_frente_2",
+          "x": 144,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_espalda_0",
+          "x": 0,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_espalda_1",
+          "x": 72,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_espalda_2",
+          "x": 144,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_lado_0",
+          "x": 0,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_lado_1",
+          "x": 72,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "deportiva_roja_lado_2",
+          "x": 144,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        }
+      ],
+      "nota": "deportiva roja: carenado completo, cola levantada, piloto inclinado"
+    },
+    {
+      "imagen": "chopper_verde/chopper_verde.png",
+      "icono": "chopper_verde/chopper_verde_icono.png",
+      "ancho": 216,
+      "alto": 240,
+      "largo_lado_px": 64,
+      "alto_moto_px": 43,
+      "sprites": [
+        {
+          "name": "chopper_verde_frente_0",
+          "x": 0,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_frente_1",
+          "x": 72,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_frente_2",
+          "x": 144,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_espalda_0",
+          "x": 0,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_espalda_1",
+          "x": 72,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_espalda_2",
+          "x": 144,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_lado_0",
+          "x": 0,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_lado_1",
+          "x": 72,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "chopper_verde_lado_2",
+          "x": 144,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        }
+      ],
+      "nota": "chopper verde: horquilla larga, manubrio alto, asiento bajo, doble escape"
+    },
+    {
+      "imagen": "scooter_naranja/scooter_naranja.png",
+      "icono": "scooter_naranja/scooter_naranja_icono.png",
+      "ancho": 216,
+      "alto": 240,
+      "largo_lado_px": 64,
+      "alto_moto_px": 40,
+      "sprites": [
+        {
+          "name": "scooter_naranja_frente_0",
+          "x": 0,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_frente_1",
+          "x": 72,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_frente_2",
+          "x": 144,
+          "y": 0,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_espalda_0",
+          "x": 0,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_espalda_1",
+          "x": 72,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_espalda_2",
+          "x": 144,
+          "y": 80,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_lado_0",
+          "x": 0,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_lado_1",
+          "x": 72,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        },
+        {
+          "name": "scooter_naranja_lado_2",
+          "x": 144,
+          "y": 160,
+          "w": 72,
+          "h": 80
+        }
+      ],
+      "nota": "scooter naranja: carrocería redonda, escudo frontal, ruedas chicas"
+    }
+  ]
+}

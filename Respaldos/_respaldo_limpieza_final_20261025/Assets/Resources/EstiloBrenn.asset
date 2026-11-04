@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ebeca64312ce64c90c7640541a6d0b, type: 3}
+  m_Name: EstiloBrenn
+  m_EditorClassIdentifier: Assembly-CSharp::EstiloBrenn
+  normal: {fileID: 21300000, guid: d166079bde688d1488730860b6604d27, type: 3}
+  normalElegido: {fileID: 21300000, guid: 0501177940f2b6d4dad1990466b6a3b0, type: 3}
+  principal: {fileID: 21300000, guid: d8352dd13e2bb4f44bc4c3899e18905c, type: 3}
+  principalElegido: {fileID: 21300000, guid: f0294e7c41261ed49854682aff1e8d40, type: 3}
+  peligro: {fileID: 21300000, guid: 05b03ce3fb170224e8b6797036ef0eaf, type: 3}
+  peligroElegido: {fileID: 21300000, guid: 9e3819b30db40124e8c4d96a2e263d78, type: 3}
+  icono: {fileID: 21300000, guid: 4486118bfb9a3a643b7a740b0d40f5ec, type: 3}
+  iconoElegido: {fileID: 21300000, guid: 55a0ede1362884e45a7f3e1c42a27072, type: 3}
+  tarjeta: {fileID: 21300000, guid: dfd11e0812e4500489e101d6d76bbd9b, type: 3}
+  tarjetaElegida: {fileID: 21300000, guid: be55a03360ed3cb49937f43d1e9c4194, type: 3}
+  tijera: {fileID: 21300000, guid: d62ab36bfc526884ca4c5ded148126bd, type: 3}
+  panel: {fileID: 21300000, guid: 62f852ccf9e63f94b9b22f3b647e1331, type: 3}
+  raya: {fileID: 21300000, guid: 54e976666f06c2345bcb3a79ea430f13, type: 3}
+  fuenteTitulos: {fileID: 11400000, guid: d55cdbea2230b854dad6432bda815758, type: 2}
+  crema: {r: 1, g: 0.94509804, b: 0.8156863, a: 1}
+  dorado: {r: 1, g: 0.81960785, b: 0.4, a: 1}
+  rosa: {r: 1, g: 0.43529412, b: 0.64705884, a: 1}
+  oscuro: {r: 0.16470589, g: 0.12156863, b: 0.2509804, a: 1}

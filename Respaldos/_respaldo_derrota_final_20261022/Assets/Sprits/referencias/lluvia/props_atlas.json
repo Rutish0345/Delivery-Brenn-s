@@ -1,0 +1,420 @@
+{
+  "imagen": "props_atlas.png",
+  "ancho": 1024,
+  "alto": 223,
+  "origen": "arriba-izquierda (y_unity = desde abajo)",
+  "separacion": 4,
+  "sprites": [
+    {
+      "name": "arbol_grande",
+      "x": 732,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 136,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbol_grande_b",
+      "x": 793,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 136,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbol_mediano",
+      "x": 953,
+      "y": 4,
+      "w": 45,
+      "h": 69,
+      "y_unity": 150,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbusto_chico",
+      "x": 856,
+      "y": 158,
+      "w": 30,
+      "h": 21,
+      "y_unity": 44,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbusto_flores",
+      "x": 619,
+      "y": 158,
+      "w": 48,
+      "h": 27,
+      "y_unity": 38,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbusto_flores_crema",
+      "x": 739,
+      "y": 158,
+      "w": 40,
+      "h": 25,
+      "y_unity": 40,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbusto_grande",
+      "x": 567,
+      "y": 158,
+      "w": 48,
+      "h": 29,
+      "y_unity": 36,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "arbusto_lejano",
+      "x": 812,
+      "y": 158,
+      "w": 40,
+      "h": 23,
+      "y_unity": 42,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "auto_frontal_azul",
+      "x": 897,
+      "y": 4,
+      "w": 52,
+      "h": 80,
+      "y_unity": 139,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "auto_lateral_oliva",
+      "x": 69,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 17,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "auto_lateral_teal",
+      "x": 169,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 17,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "auto_lateral_terracota",
+      "x": 269,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 17,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "barda",
+      "x": 495,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 29,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "barda_hiedra",
+      "x": 531,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 29,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "barda_porton",
+      "x": 413,
+      "y": 158,
+      "w": 64,
+      "h": 44,
+      "y_unity": 21,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "barda_poste_final",
+      "x": 481,
+      "y": 158,
+      "w": 10,
+      "h": 44,
+      "y_unity": 21,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "buzon_teal",
+      "x": 369,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 18,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "buzon_terracota",
+      "x": 391,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 18,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "casa_azul",
+      "x": 4,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 69,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "casa_crema",
+      "x": 168,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 69,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "casa_madera",
+      "x": 332,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 69,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "casa_oliva",
+      "x": 496,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 69,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "farol",
+      "x": 660,
+      "y": 4,
+      "w": 20,
+      "h": 111,
+      "y_unity": 108,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "haz_faros",
+      "x": 890,
+      "y": 158,
+      "w": 44,
+      "h": 20,
+      "y_unity": 45,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "nota": "luz semitransparente: usar material aditivo o Sprite Unlit"
+    },
+    {
+      "name": "huerto_plantas",
+      "x": 938,
+      "y": 158,
+      "w": 29,
+      "h": 20,
+      "y_unity": 45,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "luz_farol",
+      "x": 4,
+      "y": 158,
+      "w": 61,
+      "h": 61,
+      "y_unity": 4,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "nota": "luz semitransparente: usar material aditivo o Sprite Unlit"
+    },
+    {
+      "name": "luz_porche",
+      "x": 783,
+      "y": 158,
+      "w": 25,
+      "h": 25,
+      "y_unity": 40,
+      "pivote": [
+        0.5,
+        0.5
+      ],
+      "nota": "luz semitransparente: usar material aditivo o Sprite Unlit"
+    },
+    {
+      "name": "piedra_camino",
+      "x": 971,
+      "y": 158,
+      "w": 15,
+      "h": 9,
+      "y_unity": 56,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "pino",
+      "x": 854,
+      "y": 4,
+      "w": 39,
+      "h": 82,
+      "y_unity": 137,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "salpicadura_1",
+      "x": 990,
+      "y": 158,
+      "w": 3,
+      "h": 3,
+      "y_unity": 62,
+      "pivote": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "salpicadura_2",
+      "x": 997,
+      "y": 158,
+      "w": 5,
+      "h": 3,
+      "y_unity": 62,
+      "pivote": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "salpicadura_3",
+      "x": 1006,
+      "y": 158,
+      "w": 7,
+      "h": 3,
+      "y_unity": 62,
+      "pivote": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "senal_calle",
+      "x": 684,
+      "y": 4,
+      "w": 44,
+      "h": 93,
+      "y_unity": 126,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "name": "seto",
+      "x": 671,
+      "y": 158,
+      "w": 64,
+      "h": 27,
+      "y_unity": 38,
+      "pivote": [
+        0.5,
+        0.0
+      ]
+    }
+  ]
+}

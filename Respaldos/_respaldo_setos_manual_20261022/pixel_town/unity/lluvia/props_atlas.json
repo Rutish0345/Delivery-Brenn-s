@@ -1,0 +1,62 @@
+{
+  "imagen": "props_atlas.png",
+  "ancho": 128,
+  "alto": 34,
+  "origen": "arriba-izquierda (y_unity = desde abajo)",
+  "pivote": [
+    0.5,
+    0.0
+  ],
+  "separacion": 4,
+  "nota": "calcomanias de suelo; los demas props se toman de unity/residencial/props_atlas.png",
+  "sprites": [
+    {
+      "name": "bache_agua_chico",
+      "x": 31,
+      "y": 21,
+      "w": 13,
+      "h": 7,
+      "y_unity": 6
+    },
+    {
+      "name": "bache_agua_grande",
+      "x": 49,
+      "y": 4,
+      "w": 21,
+      "h": 11,
+      "y_unity": 19
+    },
+    {
+      "name": "charco_chico",
+      "x": 48,
+      "y": 21,
+      "w": 13,
+      "h": 5,
+      "y_unity": 8
+    },
+    {
+      "name": "charco_grande",
+      "x": 74,
+      "y": 4,
+      "w": 37,
+      "h": 11,
+      "y_unity": 19
+    },
+    {
+      "name": "charco_mediano",
+      "x": 4,
+      "y": 21,
+      "w": 23,
+      "h": 9,
+      "y_unity": 4
+    },
+    {
+      "name": "charco_pasto",
+      "x": 4,
+      "y": 4,
+      "w": 41,
+      "h": 13,
+      "y_unity": 17
+    }
+  ]
+}

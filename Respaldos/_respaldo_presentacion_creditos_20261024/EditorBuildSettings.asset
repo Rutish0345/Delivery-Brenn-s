@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 2f202258de98adb4d9bcbeab31a25f7f
+  - enabled: 1
+    path: Assets/Scenes/Seleccion.unity
+    guid: 5ce2e395d3cb1e645a74438f4fda1bb2
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9789b527aa57d3c49b73d45d7fcc68b1
+  - enabled: 1
+    path: Assets/Scenes/SeleccionNivel.unity
+    guid: 4a27a6bb26d856040a6c4a0ad52f09bf
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Nivel2_Comercial.unity
+    guid: 480cab022ea10df4aa7916b577f48eb1
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_Lluvia.unity
+    guid: 21ac6e6f5454dbc4e9e2962a9a315c1a
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 0443719a3ceeff44495720cf05a5137a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

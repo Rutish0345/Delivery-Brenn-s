@@ -1,0 +1,237 @@
+{
+  "imagen": "props_atlas.png",
+  "ancho": 1024,
+  "alto": 210,
+  "origen": "arriba-izquierda (y_unity = desde abajo)",
+  "pivote": [
+    0.5,
+    0.0
+  ],
+  "separacion": 4,
+  "sprites": [
+    {
+      "name": "arbol_grande",
+      "x": 732,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 123
+    },
+    {
+      "name": "arbol_grande_b",
+      "x": 793,
+      "y": 4,
+      "w": 57,
+      "h": 83,
+      "y_unity": 123
+    },
+    {
+      "name": "arbol_mediano",
+      "x": 953,
+      "y": 4,
+      "w": 45,
+      "h": 69,
+      "y_unity": 137
+    },
+    {
+      "name": "arbusto_chico",
+      "x": 762,
+      "y": 158,
+      "w": 30,
+      "h": 21,
+      "y_unity": 31
+    },
+    {
+      "name": "arbusto_flores",
+      "x": 554,
+      "y": 158,
+      "w": 48,
+      "h": 27,
+      "y_unity": 25
+    },
+    {
+      "name": "arbusto_flores_crema",
+      "x": 674,
+      "y": 158,
+      "w": 40,
+      "h": 25,
+      "y_unity": 27
+    },
+    {
+      "name": "arbusto_grande",
+      "x": 502,
+      "y": 158,
+      "w": 48,
+      "h": 29,
+      "y_unity": 23
+    },
+    {
+      "name": "arbusto_lejano",
+      "x": 718,
+      "y": 158,
+      "w": 40,
+      "h": 23,
+      "y_unity": 29
+    },
+    {
+      "name": "auto_frontal_azul",
+      "x": 897,
+      "y": 4,
+      "w": 52,
+      "h": 80,
+      "y_unity": 126
+    },
+    {
+      "name": "auto_lateral_oliva",
+      "x": 4,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 4
+    },
+    {
+      "name": "auto_lateral_teal",
+      "x": 104,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 4
+    },
+    {
+      "name": "auto_lateral_terracota",
+      "x": 204,
+      "y": 158,
+      "w": 96,
+      "h": 48,
+      "y_unity": 4
+    },
+    {
+      "name": "barda",
+      "x": 430,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 16
+    },
+    {
+      "name": "barda_hiedra",
+      "x": 466,
+      "y": 158,
+      "w": 32,
+      "h": 36,
+      "y_unity": 16
+    },
+    {
+      "name": "barda_porton",
+      "x": 348,
+      "y": 158,
+      "w": 64,
+      "h": 44,
+      "y_unity": 8
+    },
+    {
+      "name": "barda_poste_final",
+      "x": 416,
+      "y": 158,
+      "w": 10,
+      "h": 44,
+      "y_unity": 8
+    },
+    {
+      "name": "buzon_teal",
+      "x": 304,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 5
+    },
+    {
+      "name": "buzon_terracota",
+      "x": 326,
+      "y": 158,
+      "w": 18,
+      "h": 47,
+      "y_unity": 5
+    },
+    {
+      "name": "casa_azul",
+      "x": 4,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 56
+    },
+    {
+      "name": "casa_crema",
+      "x": 168,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 56
+    },
+    {
+      "name": "casa_madera",
+      "x": 332,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 56
+    },
+    {
+      "name": "casa_oliva",
+      "x": 496,
+      "y": 4,
+      "w": 160,
+      "h": 150,
+      "y_unity": 56
+    },
+    {
+      "name": "farol",
+      "x": 660,
+      "y": 4,
+      "w": 20,
+      "h": 111,
+      "y_unity": 95
+    },
+    {
+      "name": "huerto_plantas",
+      "x": 796,
+      "y": 158,
+      "w": 29,
+      "h": 20,
+      "y_unity": 32
+    },
+    {
+      "name": "piedra_camino",
+      "x": 829,
+      "y": 158,
+      "w": 15,
+      "h": 9,
+      "y_unity": 43
+    },
+    {
+      "name": "pino",
+      "x": 854,
+      "y": 4,
+      "w": 39,
+      "h": 82,
+      "y_unity": 124
+    },
+    {
+      "name": "senal_calle",
+      "x": 684,
+      "y": 4,
+      "w": 44,
+      "h": 93,
+      "y_unity": 113
+    },
+    {
+      "name": "seto",
+      "x": 606,
+      "y": 158,
+      "w": 64,
+      "h": 27,
+      "y_unity": 25
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "formato": "como repartidor_sheet.png: celdas de 56x80, 5 columnas x 3 filas; fila 0 frente, 1 espaldas, 2 lado (mira a la derecha); columna 0 quieta, 1-4 caminando",
+  "origen": "arriba-izquierda (Unity mide desde abajo)",
+  "pivote": [
+    0.5,
+    0.0
+  ],
+  "ppu": 32,
+  "celda": {
+    "w": 56,
+    "h": 80
+  },
+  "hojas": [
+    {
+      "imagen": "clienta_1.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_1_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_1_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_1",
+      "variante": 1,
+      "nota": "pelo largo ondulado castaño, chamarra negra, blusa gris, jeans claros y tenis negros"
+    },
+    {
+      "imagen": "clienta_2.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_2_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_2_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_2",
+      "variante": 2,
+      "nota": "pelo corto rizado negro, cárdigan mostaza, falda larga verde, tenis blancos y bolsa de tela"
+    },
+    {
+      "imagen": "clienta_3.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_3_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_3_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_3",
+      "variante": 3,
+      "nota": "abuelita de chongo gris, lentes redondos, rebozo lila, vestido de flores y pantuflas"
+    },
+    {
+      "imagen": "clienta_4.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_4_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_4_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_4",
+      "variante": 4,
+      "nota": "bata rosa, tubos en el pelo y pantuflas: recién se levantó"
+    },
+    {
+      "imagen": "clienta_5.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_5_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_5_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_5",
+      "variante": 5,
+      "nota": "adolescente de coletas teñidas de rosa, sudadera morada grande, shorts y audífonos al cuello"
+    },
+    {
+      "imagen": "clienta_6.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_6_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_6_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_6",
+      "variante": 6,
+      "nota": "pelirroja con cola de caballo, delantal de lunares sobre blusa amarilla y jeans"
+    },
+    {
+      "imagen": "clienta_7.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_7_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_7_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_7",
+      "variante": 7,
+      "nota": "trenzas, blusa teal con flores, overol de mezclilla y tenis de colores"
+    },
+    {
+      "imagen": "clienta_8.png",
+      "ancho": 280,
+      "alto": 240,
+      "sprites": [
+        {
+          "name": "clienta_8_frente_0",
+          "fila": 0,
+          "columna": 0,
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_frente_1",
+          "fila": 0,
+          "columna": 1,
+          "x": 56,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_frente_2",
+          "fila": 0,
+          "columna": 2,
+          "x": 112,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_frente_3",
+          "fila": 0,
+          "columna": 3,
+          "x": 168,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_frente_4",
+          "fila": 0,
+          "columna": 4,
+          "x": 224,
+          "y": 0,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_espalda_0",
+          "fila": 1,
+          "columna": 0,
+          "x": 0,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_espalda_1",
+          "fila": 1,
+          "columna": 1,
+          "x": 56,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_espalda_2",
+          "fila": 1,
+          "columna": 2,
+          "x": 112,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_espalda_3",
+          "fila": 1,
+          "columna": 3,
+          "x": 168,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_espalda_4",
+          "fila": 1,
+          "columna": 4,
+          "x": 224,
+          "y": 80,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_lado_0",
+          "fila": 2,
+          "columna": 0,
+          "x": 0,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_lado_1",
+          "fila": 2,
+          "columna": 1,
+          "x": 56,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_lado_2",
+          "fila": 2,
+          "columna": 2,
+          "x": 112,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_lado_3",
+          "fila": 2,
+          "columna": 3,
+          "x": 168,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        },
+        {
+          "name": "clienta_8_lado_4",
+          "fila": 2,
+          "columna": 4,
+          "x": 224,
+          "y": 160,
+          "w": 56,
+          "h": 80
+        }
+      ],
+      "personaje": "clienta_8",
+      "variante": 8,
+      "nota": "oficinista de pelo corto recto, saco teal, falda lápiz, lentes y zapatos de tacón"
+    }
+  ]
+}

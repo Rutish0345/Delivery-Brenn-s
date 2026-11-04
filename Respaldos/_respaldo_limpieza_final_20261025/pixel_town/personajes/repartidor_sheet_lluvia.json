@@ -1,0 +1,305 @@
+{
+  "image": "repartidor_sheet_lluvia.png",
+  "size": {
+    "w": 280,
+    "h": 240
+  },
+  "frame_size": {
+    "w": 56,
+    "h": 80
+  },
+  "grid": {
+    "columns": 5,
+    "rows": 3
+  },
+  "pixels_per_unit_sugerido": 16,
+  "filter": "Point (no filter)",
+  "compression": "None",
+  "pivot_note": "Pivote abajo-centro (0.5, 0). y = origen arriba-izquierda; unity_rect_y = origen abajo-izquierda (Sprite Editor).",
+  "animations": {
+    "idle_frente": {
+      "frames": [
+        0
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "walk_frente": {
+      "frames": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "idle_espalda": {
+      "frames": [
+        5
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "walk_espalda": {
+      "frames": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "idle_lado_derecho": {
+      "frames": [
+        10
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "walk_lado_derecho": {
+      "frames": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "fps": 8,
+      "loop": true
+    },
+    "idle_lado_izquierdo": {
+      "frames": [
+        10
+      ],
+      "fps": 8,
+      "loop": true,
+      "flipX": true
+    },
+    "walk_lado_izquierdo": {
+      "frames": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "fps": 8,
+      "loop": true,
+      "flipX": true
+    }
+  },
+  "fps_sugeridos": 8,
+  "frames": [
+    {
+      "name": "repartidor_lluvia_frente_idle",
+      "row": 0,
+      "col": 0,
+      "x": 0,
+      "y": 0,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 160,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_frente_walk_0",
+      "row": 0,
+      "col": 1,
+      "x": 56,
+      "y": 0,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 160,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_frente_walk_1",
+      "row": 0,
+      "col": 2,
+      "x": 112,
+      "y": 0,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 160,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_frente_walk_2",
+      "row": 0,
+      "col": 3,
+      "x": 168,
+      "y": 0,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 160,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_frente_walk_3",
+      "row": 0,
+      "col": 4,
+      "x": 224,
+      "y": 0,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 160,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_espalda_idle",
+      "row": 1,
+      "col": 0,
+      "x": 0,
+      "y": 80,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 80,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_espalda_walk_0",
+      "row": 1,
+      "col": 1,
+      "x": 56,
+      "y": 80,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 80,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_espalda_walk_1",
+      "row": 1,
+      "col": 2,
+      "x": 112,
+      "y": 80,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 80,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_espalda_walk_2",
+      "row": 1,
+      "col": 3,
+      "x": 168,
+      "y": 80,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 80,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_espalda_walk_3",
+      "row": 1,
+      "col": 4,
+      "x": 224,
+      "y": 80,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 80,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_lado_derecho_idle",
+      "row": 2,
+      "col": 0,
+      "x": 0,
+      "y": 160,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_lado_derecho_walk_0",
+      "row": 2,
+      "col": 1,
+      "x": 56,
+      "y": 160,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_lado_derecho_walk_1",
+      "row": 2,
+      "col": 2,
+      "x": 112,
+      "y": 160,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_lado_derecho_walk_2",
+      "row": 2,
+      "col": 3,
+      "x": 168,
+      "y": 160,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "repartidor_lluvia_lado_derecho_walk_3",
+      "row": 2,
+      "col": 4,
+      "x": 224,
+      "y": 160,
+      "w": 56,
+      "h": 80,
+      "unity_rect_y": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    }
+  ],
+  "nota": "Mismo formato que repartidor_sheet.png: atuendo de lluvia (generar_impermeable.py), solo Nivel3_Lluvia."
+}

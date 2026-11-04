@@ -1,0 +1,2173 @@
+fileFormatVersion: 2
+guid: 0aea9b2bcb0cb43428f047cad8642a1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -211980168132702814
+    second: props_atlas_0
+  - first:
+      213: -4584547303979669259
+    second: props_atlas_1
+  - first:
+      213: -1642456654738109045
+    second: props_atlas_2
+  - first:
+      213: 4877805513744629
+    second: props_atlas_3
+  - first:
+      213: -4807872316680983589
+    second: props_atlas_4
+  - first:
+      213: -3843122761159343252
+    second: props_atlas_5
+  - first:
+      213: -7207910098050887202
+    second: props_atlas_6
+  - first:
+      213: 4863576861971816234
+    second: props_atlas_7
+  - first:
+      213: 2017860975001611677
+    second: props_atlas_8
+  - first:
+      213: 7575151585499226056
+    second: props_atlas_9
+  - first:
+      213: 6692924705614225096
+    second: props_atlas_10
+  - first:
+      213: 5841124737931532711
+    second: props_atlas_11
+  - first:
+      213: 7626180402857242134
+    second: props_atlas_12
+  - first:
+      213: -980654269533384557
+    second: props_atlas_13
+  - first:
+      213: -71200850382215001
+    second: props_atlas_14
+  - first:
+      213: 3774099742155537385
+    second: props_atlas_15
+  - first:
+      213: 3190048915628836557
+    second: props_atlas_16
+  - first:
+      213: 1763782418714826861
+    second: props_atlas_17
+  - first:
+      213: 9215556764693733377
+    second: props_atlas_18
+  - first:
+      213: 3221404722894189379
+    second: props_atlas_19
+  - first:
+      213: -4640328949063829093
+    second: props_atlas_20
+  - first:
+      213: -2848541791220438660
+    second: props_atlas_21
+  - first:
+      213: -2160032057355073818
+    second: props_atlas_22
+  - first:
+      213: -8138397132589478141
+    second: props_atlas_23
+  - first:
+      213: -6755073160226777180
+    second: props_atlas_24
+  - first:
+      213: 2418671564163899301
+    second: props_atlas_25
+  - first:
+      213: 1901577734286511618
+    second: props_atlas_26
+  - first:
+      213: -9103380051435714024
+    second: props_atlas_27
+  - first:
+      213: 7485079822341629426
+    second: props_atlas_28
+  - first:
+      213: 1760460539888304750
+    second: props_atlas_29
+  - first:
+      213: 8462432686075772118
+    second: props_atlas_30
+  - first:
+      213: 8874104560838042308
+    second: props_atlas_31
+  - first:
+      213: -8465618066931850237
+    second: props_atlas_32
+  - first:
+      213: 8722026793833106098
+    second: props_atlas_33
+  - first:
+      213: -7592463375772172331
+    second: props_atlas_34
+  - first:
+      213: 7567446428315167381
+    second: props_atlas_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbol_grande
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 732
+        width: 57
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1120d3cff80734d44900adb3889fb
+      internalID: 1678491389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbol_grande_b
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 732
+        width: 57
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cbcd6d09e19db65bd2cbe511cd517a
+      internalID: -1637165088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbol_mediano
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 746
+        width: 45
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3f3bbae81b50352dcedd8afa61b1f
+      internalID: 2034800753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbusto_chico
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 640
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07959973dc0a1ed856dbd20756db7a29
+      internalID: -1047029425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbusto_flores
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 634
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058d8d782f1a8b22b1adf6b83ada0fa
+      internalID: -1821332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbusto_flores_crema
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 636
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4422caee5517639e1522784709b0d0
+      internalID: 2102215946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbusto_grande
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 632
+        width: 48
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb2595f3f61557036c7106b740cadc
+      internalID: -722148263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbusto_lejano
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 638
+        width: 40
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7fad65a5121b54f70efd29fc907301
+      internalID: -1953495333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banca_parque
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 18
+        width: 46
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccff385ef89b09dac7e7b4a5c1d8c9
+      internalID: -1046852934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barda
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 625
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57696434ba064c11085e8e0f7a41b5ec
+      internalID: 838642415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barda_hiedra
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 625
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe6261303b9b2ae61c99aae5544ab08
+      internalID: 336762079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barda_porton
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 617
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755bfc510a602b12c5d985a59253983
+      internalID: 2017710408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barda_poste_final
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 617
+        width: 10
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395074806ad41d971a17371765174c6
+      internalID: -1603985108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bote_basura
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 23
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d99df2b3c6a019778f71b90e2de31c
+      internalID: -1305204797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzon_teal
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 614
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9e4c0046d38b35340f1aed891f7a5
+      internalID: 1228429156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzon_terracota
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 614
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198c2ae17c6ab943ea578dfbbf728ac
+      internalID: 708238331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caja_carga
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 26
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a2c82b774d882994edc0c85c0dd77
+      internalID: -1632663357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajas_apiladas
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a66855d48d0b4525693216d44c677b
+      internalID: -1173238747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_azul
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56574ac5cb86b17e917e6b18c8dc40
+      internalID: -1081664307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_dorado
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c0cb0cdf32907d200f91a61f8c190
+      internalID: 297261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_morado
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2028d8c4e89f8b8a837f8993c71ebac
+      internalID: -1266597767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_oliva
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175c954ba231a77b90de132fbbb2bfe
+      internalID: -751525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_rosa
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f34f6d437bbad2c7d5b8945ffd9eb
+      internalID: -1840119056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_frontal_teal
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449d80c35aa9c87b91ccf140c1d1eb2
+      internalID: -218378555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_azul
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14f55c07535f6d7c706784d5a177d4
+      internalID: -225307567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_dorado
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e4222e33a5e6666db6c154e09453b
+      internalID: -1688061930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_morado
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63a7d4296e351f558c8c3ddedc0120
+      internalID: -684555830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_oliva
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84be1a03c212b250fd2038e27d51db0
+      internalID: 1639144258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_rosa
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745936cdbdbd0b26e917e8a083774e8e
+      internalID: 1594424374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_lateral_teal
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 56
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f3047eac2985f084a640c0dba0c79
+      internalID: 1184695651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_azul
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc20f59177cbe50ac224d5d3273bed
+      internalID: -2046703245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_dorado
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06f82b99f71effe574502e28a5b752
+      internalID: 507038477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_morado
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f292f89fd11236790b7b4bfff2145d
+      internalID: 837102022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_oliva
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 286
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250e837136ca6276e0d95511cdef6ea
+      internalID: 1153688048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_rosa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be57343ed3206f6e1e587e9d6f8ec5
+      internalID: 213974603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_trasero_teal
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1024d16c3826b4934bfc950ef725632
+      internalID: 1811579018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_azul
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 665
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cc4e0885aec2fe5e4e3b77812d8ce8
+      internalID: 745849375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_crema
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 665
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae412e1881e4e1d5806a92801900e35
+      internalID: -1085488972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_madera
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 665
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d77027eb778fe2ea3c1f561b75c4c
+      internalID: 1886511569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_oliva
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 665
+        width: 160
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818d10e04f3f9ea317d32f0ff986cac
+      internalID: 1496251388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerca_baja
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e870a0d7b5f0eb44d5bbed6f6f3a156
+      internalID: -924653610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerca_baja_porton
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 96
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369dca4f76cb18cee16acae273ccc67
+      internalID: 831427453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerca_baja_poste
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 17
+        width: 8
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d2c2293b04cac9ea2c9fbbf456a6b
+      internalID: -1229308201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empresa_brenns
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 320
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52480109912578c224b014f66187723
+      internalID: 840622043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farol
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 704
+        width: 20
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a144f9f48af220cc19fcf1ba85ed24c
+      internalID: 872411267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_plaza
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 134
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bcca0d7bcd73f62dbd0a5eaf3c997d
+      internalID: -1748991447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hidrante
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 20
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf706d7238e48807ac3b98a21ad471d
+      internalID: -814245758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huerto_plantas
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 641
+        width: 29
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8f6d542d6fc1a5195941b894c9a558
+      internalID: 665609056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lago_parque
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 266
+        width: 249
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555c4ab54a2a88bc5b1f70bdc0e5662
+      internalID: -1858726369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_calle_avenida
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 146
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e58edfc4eb02f16967664809cb9a0d
+      internalID: 760585109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_calle_empedrada
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 146
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d85e981ec2a445aae0e86168af6625
+      internalID: -1406508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_calle_olmo
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 146
+        width: 50
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9576f5f12644fe13355ca4459dcb45f
+      internalID: -855064764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_calle_pino
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 146
+        width: 49
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928a0afba9196b08f14be7e1318d92f
+      internalID: 2002060530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra_camino
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 652
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b33eabf35a1639a549b0c620689151
+      internalID: 679163480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pino
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 733
+        width: 39
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18465b53e9fa5fe0ad83170e2f8c2627
+      internalID: 162165771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senal_calle
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 722
+        width: 44
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51141c0f47a95109f3c905e184c83bd3
+      internalID: -1588652981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seto
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 634
+        width: 64
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f841498b6293aa4c8fe7bc76736751
+      internalID: 2040475126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columpios
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 149
+        width: 73
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d0f73e803d6a6172625d215518ea6
+      internalID: 1745020510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardinera_flores
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 22
+        width: 45
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fdc70c5d996ca055a040f58c4b2e5
+      internalID: 180110691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puesto_elotes
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 140
+        width: 56
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75e030cadd56a2a85625faf838c439
+      internalID: 861127948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resbaladilla
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b87b5c09c1a5cd5bf86c50fdee20a7
+      internalID: 2072406208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semaforo_ambar
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 140
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb57b907a46a26707878c3b4bed8cf
+      internalID: -716434757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semaforo_apagado
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 140
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15524db215d683e1f064926bcde64120
+      internalID: 647626603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semaforo_rojo
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 140
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba4ffe6a4f4a7b064e3a5090169f030
+      internalID: -1854613888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semaforo_verde
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fdecfb746d5570700e110f47a2c3b5
+      internalID: 1782745943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camioneta_reparto
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 146
+        width: 119
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f8412fc2d658bb4c88efccac7c455
+      internalID: 255187886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubetas_flores
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 20
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416f59c75b8b43b92f2df131717d170
+      internalID: 1991423601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huerto_comunitario
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 135
+        width: 128
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d3495a23b453692e224023c1fa469
+      internalID: 947511577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesa_picnic
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 76
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc499248087cf94cf1d73a731094eb
+      internalID: 1171111344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parquimetro
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 60
+        width: 11
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb5acc2311895b5aa1cce216863ed5
+      internalID: 1877041958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizarra_panaderia
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 13
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a836d47d0fefaff32d6eaffbb9eb64
+      internalID: -1908509371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tienda_farmacia
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 434
+        width: 192
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efe543c8ab733d0345340b1ccbde38
+      internalID: -1802668677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tienda_floreria
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 436
+        width: 192
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042e642ea7df5258decd11fb2687b14
+      internalID: -410990145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tienda_panaderia
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 434
+        width: 192
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba043bd200bf409045cf60d3735211
+      internalID: -1106544113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tienda_salon_belleza
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 192
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be530da4cbc860905aad96d4870b9099
+      internalID: 1218246674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aro_basquet_sur
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 10
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96835ab37de17da81beed0747970ac8
+      internalID: -1321960543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aro_basquet_norte
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485c89e1fcfb4b395ebdb73cb781f56
+      internalID: -1042428692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_0
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2f1bff84eb9c486774bb3849c7d2a
+      internalID: -1098280012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479dbc44e24639d56d72b918f05161e
+      internalID: 1573043741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a53f33c2092c6f3becd6fbb2f0a5f1
+      internalID: 1266113988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446a54986ba8bfc5300cf81353597a9
+      internalID: -848287807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_4
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff2148b65ebec99b88f379e40586fb
+      internalID: 1719552204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas_entrega_5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 56
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1356eeb02124245d03c9a68aca5c0c0a
+      internalID: 1004167771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50938f38d89b07d4daa348e28a60b87d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbol_grande: 1678491389
+      arbol_grande_b: -1637165088
+      arbol_mediano: 2034800753
+      arbusto_chico: -1047029425
+      arbusto_flores: -1821332322
+      arbusto_flores_crema: 2102215946
+      arbusto_grande: -722148263
+      arbusto_lejano: -1953495333
+      aro_basquet_norte: -1042428692
+      aro_basquet_sur: -1321960543
+      banca_parque: -1046852934
+      barda: 838642415
+      barda_hiedra: 336762079
+      barda_porton: 2017710408
+      barda_poste_final: -1603985108
+      bote_basura: -1305204797
+      buzon_teal: 1228429156
+      buzon_terracota: 708238331
+      caja_carga: -1632663357
+      cajas_apiladas: -1173238747
+      camioneta_reparto: 255187886
+      carro_frontal_azul: -1081664307
+      carro_frontal_dorado: 297261624
+      carro_frontal_morado: -1266597767
+      carro_frontal_oliva: -751525351
+      carro_frontal_rosa: -1840119056
+      carro_frontal_teal: -218378555
+      carro_lateral_azul: -225307567
+      carro_lateral_dorado: -1688061930
+      carro_lateral_morado: -684555830
+      carro_lateral_oliva: 1639144258
+      carro_lateral_rosa: 1594424374
+      carro_lateral_teal: 1184695651
+      carro_trasero_azul: -2046703245
+      carro_trasero_dorado: 507038477
+      carro_trasero_morado: 837102022
+      carro_trasero_oliva: 1153688048
+      carro_trasero_rosa: 213974603
+      carro_trasero_teal: 1811579018
+      casa_azul: 745849375
+      casa_crema: -1085488972
+      casa_madera: 1886511569
+      casa_oliva: 1496251388
+      cerca_baja: -924653610
+      cerca_baja_porton: 831427453
+      cerca_baja_poste: -1229308201
+      columpios: 1745020510
+      cubetas_flores: 1991423601
+      empresa_brenns: 840622043
+      estrellas_entrega_0: -1098280012
+      estrellas_entrega_1: 1573043741
+      estrellas_entrega_2: 1266113988
+      estrellas_entrega_3: -848287807
+      estrellas_entrega_4: 1719552204
+      estrellas_entrega_5: 1004167771
+      farol: 872411267
+      fuente_plaza: -1748991447
+      hidrante: -814245758
+      huerto_comunitario: 947511577
+      huerto_plantas: 665609056
+      jardinera_flores: 180110691
+      lago_parque: -1858726369
+      letrero_calle_avenida: 760585109
+      letrero_calle_empedrada: -1406508435
+      letrero_calle_olmo: -855064764
+      letrero_calle_pino: 2002060530
+      mesa_picnic: 1171111344
+      parquimetro: 1877041958
+      piedra_camino: 679163480
+      pino: 162165771
+      pizarra_panaderia: -1908509371
+      puesto_elotes: 861127948
+      resbaladilla: 2072406208
+      semaforo_ambar: -716434757
+      semaforo_apagado: 647626603
+      semaforo_rojo: -1854613888
+      semaforo_verde: 1782745943
+      senal_calle: -1588652981
+      seto: 2040475126
+      tienda_farmacia: -1802668677
+      tienda_floreria: -410990145
+      tienda_panaderia: -1106544113
+      tienda_salon_belleza: 1218246674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
